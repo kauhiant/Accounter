@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testSQLite</string>
+    <string name="title_activity_fix_account">FixAccount</string>
+</resources>
